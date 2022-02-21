@@ -5,3 +5,5 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
+* Doctor Strange
+* Hulk
