@@ -1,3 +1,3 @@
-# Reason
+# Notes
 
-This repository is used for try things
+Este proyecto se encarga de manejar los planes de la liga de la justicia
