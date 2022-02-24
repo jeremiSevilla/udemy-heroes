@@ -6,3 +6,4 @@
 * Mujer Maravilla
 * Doctor Strange
 * Hulk
+* Volcán Negro
