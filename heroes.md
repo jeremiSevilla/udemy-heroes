@@ -7,3 +7,4 @@
 * Doctor Strange
 * Hulk
 * Volcán Negro
+* Atom
